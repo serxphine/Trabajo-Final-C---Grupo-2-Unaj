@@ -1,0 +1,14 @@
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\bin\Debug\net8.0\Trabajo Final C#.exe
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\bin\Debug\net8.0\Trabajo Final C#.deps.json
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\bin\Debug\net8.0\Trabajo Final C#.runtimeconfig.json
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\bin\Debug\net8.0\Trabajo Final C#.dll
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\bin\Debug\net8.0\Trabajo Final C#.pdb
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\obj\Debug\net8.0\Trabajo Final C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\obj\Debug\net8.0\Trabajo Final C#.AssemblyInfoInputs.cache
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\obj\Debug\net8.0\Trabajo Final C#.AssemblyInfo.cs
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\obj\Debug\net8.0\Trabajo Final C#.csproj.CoreCompileInputs.cache
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\obj\Debug\net8.0\Trabajo Final C#.dll
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\obj\Debug\net8.0\refint\Trabajo Final C#.dll
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\obj\Debug\net8.0\Trabajo Final C#.pdb
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\obj\Debug\net8.0\Trabajo Final C#.genruntimeconfig.cache
+C:\Users\merca\source\repos\Trabajo Final C#\Trabajo Final C#\obj\Debug\net8.0\ref\Trabajo Final C#.dll
